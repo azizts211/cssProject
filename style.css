@@ -1,0 +1,25 @@
+h1 + p{ 
+color: blue;
+
+}
+
+li{ display: inline;}
+
+h1{
+    text-align: center;
+}
+a{ text-decoration: none;}
+body{ background-color: whitesmoke;}
+
+.myform{
+    border: 6px solid black;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+#project1{
+    display: flex;
+    padding-top:50px; ;
+}
